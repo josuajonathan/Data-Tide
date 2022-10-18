@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Data-Tide.exe.config
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Data-Tide.exe
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Data-Tide.pdb
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data_Tide.Properties.Resources.resources
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.exe
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.pdb
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.CopyComplete
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\TideDiagram.Form1.resources
