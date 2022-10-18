@@ -39,16 +39,16 @@ namespace TideDiagram
 
             //Tide
             objChart.AxisY.IntervalType = System.Windows.Forms.DataVisualization.Charting.DateTimeIntervalType.Number;
-            objChart.AxisY.Minimum = -2;
-            objChart.AxisY.Maximum = 2;
+            objChart.AxisY.Minimum = -4;
+            objChart.AxisY.Maximum = 4;
 
             //Clear
             chart1.Series.Clear();
 
             Series newSeries = new Series("Tide");
             newSeries.ChartType = SeriesChartType.Line;
-            newSeries.BorderWidth = 1;
-            newSeries.Color = Color.Blue;
+            newSeries.BorderWidth = 3;
+            newSeries.Color = Color.Green;
             newSeries.XValueType = ChartValueType.DateTime;
             chart1.Series.Add(newSeries);
 
