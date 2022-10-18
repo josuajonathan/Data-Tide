@@ -48,7 +48,7 @@ namespace TideDiagram
             Series newSeries = new Series("Tide");
             newSeries.ChartType = SeriesChartType.Line;
             newSeries.BorderWidth = 1;
-            newSeries.Color = Color.White;
+            newSeries.Color = Color.Blue;
             newSeries.XValueType = ChartValueType.DateTime;
             chart1.Series.Add(newSeries);
 
